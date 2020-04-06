@@ -1,8 +1,8 @@
 # Brad Simpson's Website
 
-## *A little place I like to visit to know more about me...*
+## *A little place to learn more about me...*
 
-![photo of me](https://github.com/bradsimpson213/My-Website/blob/master/headshot.png "This is me")
+![photo of me](./headshot.png "This is me")
 
 ## My technical skills...
 * JavaScript
@@ -11,6 +11,7 @@
 ## What I did before coding...
 * 10 years in the Construction and Property Management Industry
 * 10 years in the Accounting/Finance Industry
+    * BS in Accounting, Ramapo College
 
 
 
@@ -25,11 +26,13 @@
 6. Relax in my hammock reading a good book
 
 ### Check out links to my projects...
-[Tic Tac Toe] (https://bradsimpson213.github.io/Tic-Tac-Toe/)
-[Connect 4] (https://bradsimpson213.github.io/connect-four/)
+[Tic Tac Toe] [tictactoe] 
+
+[Connect 4] [connect4]
 
 
 
-
+[tictactoe] https://bradsimpson213.github.io/Tic-Tac-Toe/
+[connect4] (https://bradsimpson213.github.io/connect-four/)
 
 

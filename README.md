@@ -4,7 +4,7 @@
 
 ___
 
-<img src="./headshot.png" width="250px" height= "250px >
+<img src="./headshot.png" width="200px" height= "250px">
 
 ## My technical skills...
 * JavaScript

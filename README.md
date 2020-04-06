@@ -2,7 +2,9 @@
 
 ## *A little place to learn more about me...*
 
-![photo of me](./headshot.png "This is me")
+___
+
+![photo of me](./headshot.png =250x250 "This is me")
 
 ## My technical skills...
 * JavaScript
@@ -26,13 +28,8 @@
 6. Relax in my hammock reading a good book
 
 ### Check out links to my projects...
-[Tic Tac Toe] [tictactoe] 
+[Tic Tac Toe](https://bradsimpson213.github.io/Tic-Tac-Toe/)
 
-[Connect 4] [connect4]
-
-
-
-[tictactoe] https://bradsimpson213.github.io/Tic-Tac-Toe/
-[connect4] (https://bradsimpson213.github.io/connect-four/)
+[Connect 4](https://bradsimpson213.github.io/connect-four/)
 
 

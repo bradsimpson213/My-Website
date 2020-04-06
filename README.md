@@ -6,9 +6,12 @@ ___
 
 <img src="./headshot.png" width="200px" height= "250px">
 
+##### Hi there and thanks for stopping by!  My name is Brad, and I live in New Jersey with my wife Jennie, my son Andy, and two crazy cats named Blue and Patch.  I like to make stuff.  Lots of stuff.  I make furniture, remodel houses, do home DIY projects.  If you can take something apart with a screwdriver I probably have, and maybe fixed it, and then hopeefully put it back together.  I dabble in landscape architecture.  I make eggplant lasagna from scratch, using eggplant, tomatoes, and basil I grew in my own garden.  And most recently, I make software applications... :thumbsup:   
+
+
 ## My technical skills...
 * JavaScript
-* Other stuff...
+* Other stuff... :grinning:
 
 ## What I did before coding...
 * 10 years in the Construction and Property Management Industry
@@ -26,6 +29,7 @@ ___
 4. Cooking delicious food 
 5. Gardening/Landscaping
 6. Relaxing in my hammock reading a good book
+7. Amateur Ukulele player (very amateur)
 
 ### Check out links to my projects...
 [Tic Tac Toe](https://bradsimpson213.github.io/Tic-Tac-Toe/)

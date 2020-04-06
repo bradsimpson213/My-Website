@@ -4,7 +4,7 @@
 
 ___
 
-![photo of me](./headshot.png =250x250 "This is me")
+<img src="./headshot.png" width="250px" height= "250px >
 
 ## My technical skills...
 * JavaScript
@@ -25,7 +25,7 @@ ___
     * Plumbing repairs
 4. Cooking delicious food 
 5. Gardening/Landscaping
-6. Relax in my hammock reading a good book
+6. Relaxing in my hammock reading a good book
 
 ### Check out links to my projects...
 [Tic Tac Toe](https://bradsimpson213.github.io/Tic-Tac-Toe/)
